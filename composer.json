@@ -9,6 +9,11 @@
             "email": "davis.peixoto@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.*",
+        "davispeixoto/force-dot-com-toolkit-for-php": "1.0.*"
+    },
    "require": {
         "laravel/framework": "4.*",
         "davispeixoto/laravel-salesforce": "2.0.*"
